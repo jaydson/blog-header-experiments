@@ -1,4 +1,4 @@
-blog-header-experiments
+Blog Header Experiments
 =======================
 
-Some experiments for my blog header
+Some cool(or not) experiments for my blog header.
